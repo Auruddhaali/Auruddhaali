@@ -7,7 +7,7 @@
 <body>
 
 <h1 class="header">THIS IS AURUDDHA ALI</h1>
-<img class="center hover04 figure img"src="images/auro-picture.jpg" />
+<img class="center hover04 figure img"src="images/Auro2.jpg" />
 
 </body>
 </html>
