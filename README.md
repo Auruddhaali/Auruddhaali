@@ -1,7 +1,6 @@
 
 <html>
     <head>
-       <title>auro</title>
        <link rel="stylesheet" href="auro.css">
     </head>
 
