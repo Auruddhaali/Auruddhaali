@@ -27,21 +27,23 @@ My name is Auruddha Rushd Ali. I am a programmer, I make games on Scratch someti
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Auruddhaali&show_icons=true&theme=transparent&hide_border=true&title_color=2e8b57&text_color=333&icon_color=2e8b57)
+<img src="https://github-readme-stats.vercel.app/api?username=Auruddhaali&show_icons=true&theme=transparent&hide_border=true&title_color=2e8b57&text_color=333&icon_color=2e8b57" alt="GitHub Stats" style="border-radius: 16px; margin-bottom: 16px; box-shadow: 0 4px 15px rgba(31, 38, 135, 0.15);" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Auruddhaali&theme=transparent&hide_border=true&ring=2e8b57&fire=2e8b57&currStreakLabel=2e8b57)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Auruddhaali&theme=transparent&hide_border=true&ring=2e8b57&fire=2e8b57&currStreakLabel=2e8b57" alt="GitHub Streak" style="border-radius: 16px; margin-bottom: 16px; box-shadow: 0 4px 15px rgba(31, 38, 135, 0.15);" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Auruddhaali&layout=compact&theme=transparent&hide_border=true&title_color=2e8b57&text_color=333)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auruddhaali&layout=compact&theme=transparent&hide_border=true&title_color=2e8b57&text_color=333" alt="Top Languages" style="border-radius: 16px; margin-bottom: 16px; box-shadow: 0 4px 15px rgba(31, 38, 135, 0.15);" />
 
 ### 📚 My Repositories
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Auruddhaali&repo=Auruddhaali&theme=transparent&hide_border=true&title_color=2e8b57&text_color=333&icon_color=2e8b57)](https://github.com/Auruddhaali/Auruddhaali)
+<a href="https://github.com/Auruddhaali/Auruddhaali">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Auruddhaali&repo=Auruddhaali&theme=transparent&hide_border=true&title_color=2e8b57&text_color=333&icon_color=2e8b57" alt="Repo Card" style="border-radius: 16px; margin-bottom: 16px; box-shadow: 0 4px 15px rgba(31, 38, 135, 0.15);" />
+</a>
 
 <details>
 <summary>📈 Detailed GitHub Activity</summary>
 
 #### Recent Activity
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Auruddhaali&theme=github-light&hide_border=true&color=2e8b57)
+<img src="https://activity-graph.herokuapp.com/graph?username=Auruddhaali&theme=github-light&hide_border=true&color=2e8b57" alt="Activity Graph" style="border-radius: 16px; margin: 16px 0; box-shadow: 0 4px 15px rgba(31, 38, 135, 0.15);" />
 
 #### Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Auruddhaali&color=2e8b57&style=flat-square)
