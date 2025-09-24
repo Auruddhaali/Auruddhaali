@@ -23,6 +23,38 @@ My name is Auruddha Rushd Ali. I am a programmer, I make games on Scratch someti
 - **Instagram:** [auruddha_ali_aura](https://instagram.com/auruddha_ali_aura)
 - **GitHub:** [Auruddhaali](https://github.com/Auruddhaali)
 
+## 📊 My GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Auruddhaali&show_icons=true&theme=transparent&hide_border=true&title_color=2e8b57&text_color=333&icon_color=2e8b57)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Auruddhaali&theme=transparent&hide_border=true&ring=2e8b57&fire=2e8b57&currStreakLabel=2e8b57)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Auruddhaali&layout=compact&theme=transparent&hide_border=true&title_color=2e8b57&text_color=333)
+
+### 📚 My Repositories
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Auruddhaali&repo=Auruddhaali&theme=transparent&hide_border=true&title_color=2e8b57&text_color=333&icon_color=2e8b57)](https://github.com/Auruddhaali/Auruddhaali)
+
+<details>
+<summary>📈 Detailed GitHub Activity</summary>
+
+#### Recent Activity
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Auruddhaali&theme=github-light&hide_border=true&color=2e8b57)
+
+#### Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Auruddhaali&color=2e8b57&style=flat-square)
+
+#### Contribution Details
+- **Total Repositories:** View my [repositories](https://github.com/Auruddhaali?tab=repositories)
+- **Contributions:** Check my [contribution activity](https://github.com/Auruddhaali?tab=overview)
+- **Latest Projects:** Browse my [stars](https://github.com/Auruddhaali?tab=stars)
+
+</details>
+
+</div>
+
 </div>
 
 ---
