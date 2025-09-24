@@ -6,7 +6,7 @@
 <body>
 
 <h1 class="header"># Auruddha Rushd Ali</h1>
-<img class="center hover04 figure img"src="images/Auro3 fixed.jpg" />
+<img src="images/Auro3 fixed.jpg" alt="Profile" width="200" style="border-radius: 10px; display: block; margin: 20px auto;"/>
 
 ---
 
@@ -22,12 +22,6 @@ My name is Auruddha Rushd Ali. I am a programmer, I make games on Scratch someti
 - **Facebook:** [auruddha.rushd.ali](https://www.facebook.com/auruddha.rushd.ali)
 - **Instagram:** [auruddha_ali_aura](https://instagram.com/auruddha_ali_aura)
 - **GitHub:** [Auruddhaali](https://github.com/Auruddhaali)
-
-## 🚀 Project Highlights
-
-- Personal website with liquid glass UI and cool hover effects
-- Scratch games and creative coding
-- Minecraft, Roblox, and Fortnite enthusiast
 
 </div>
 
