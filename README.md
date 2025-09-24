@@ -1,4 +1,3 @@
-
 <html>
     <head>
        <link rel="stylesheet" href="auro.css">
@@ -6,8 +5,38 @@
 
 <body>
 
-<h1 class="header">THIS IS AURUDDHA RUSHD ALI</h1>
-<img class="center hover04 figure img"src="images/Auro2.jpg" />
+<h1 class="header"># Auruddha Rushd Ali</h1>
+<img class="center hover04 figure img"src="images/Auro3 fixed.jpg" />
 
+---
+
+<div align="center" style="background: linear-gradient(135deg, rgba(255,255,255,0.38) 0%, rgba(200,230,255,0.45) 100%); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.25), 0 0 40px 10px rgba(46,139,87,0.08); border-radius: 2rem; border: 2px solid rgba(255,255,255,0.32); padding: 2rem; max-width: 600px; margin: auto;">
+
+## 👋 About Me
+
+My name is Auruddha Rushd Ali. I am a programmer, I make games on Scratch sometimes and I play Minecraft, Roblox, Fortnite sometimes.
+
+## 📱 Contact
+
+- **WhatsApp:** [+8801325761492](https://wa.me/8801325761492)
+- **Facebook:** [auruddha.rushd.ali](https://www.facebook.com/auruddha.rushd.ali)
+- **Instagram:** [auruddha_ali_aura](https://instagram.com/auruddha_ali_aura)
+- **GitHub:** [Auruddhaali](https://github.com/Auruddhaali)
+
+## 🚀 Project Highlights
+
+- Personal website with liquid glass UI and cool hover effects
+- Scratch games and creative coding
+- Minecraft, Roblox, and Fortnite enthusiast
+
+</div>
+
+---
+
+> "Code, create, and play!"
+
+---
+
+*For best effect, view this README on GitHub web or a Markdown viewer that supports HTML/CSS styling.*
 </body>
 </html>
