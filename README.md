@@ -18,7 +18,10 @@ My name is Auruddha Rushd Ali. I am a programmer, I make games on Scratch someti
 
 ## 📱 Contact
 
-- **WhatsApp:** [+8801325761492](https://wa.me/8801325761492)
+- **Phone/WhatsApp:** [+8801325761492](tel:+8801325761492)
+- **Email:** 
+  - [auruddhaali@gmail.com](mailto:auruddhaali@gmail.com)
+  - [auro-ali@googlegroups.com](mailto:auro-ali@googlegroups.com)
 - **Facebook:** [auruddha.rushd.ali](https://www.facebook.com/auruddha.rushd.ali)
 - **Instagram:** [auruddha_ali_aura](https://instagram.com/auruddha_ali_aura)
 - **GitHub:** [Auruddhaali](https://github.com/Auruddhaali)
