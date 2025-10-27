@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-My name is Auruddha Rushd Ali. I am a programmer, I make games on Scratch sometimes and I play Minecraft, Roblox, Fortnite sometimes.
+My name is Auruddha Rushd Ali. I am a programmer, I make games on Scratch sometimes and I play Minecraft, Roblox, valorent sometimes.
 
 ## 📱 Contact
 
