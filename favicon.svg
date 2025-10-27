@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="circleClip">
+      <circle cx="16" cy="16" r="15"/>
+    </clipPath>
+  </defs>
+  <image href="images/Auro 4.jpg" x="0" y="0" width="32" height="32" clip-path="url(#circleClip)"/>
+  <circle cx="16" cy="16" r="15" fill="none" stroke="#2e8b57" stroke-width="1"/>
+</svg>

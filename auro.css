@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 20px;
     background: linear-gradient(135deg, #c7e77c 0%, #98fb98 100%);
-    font-family: 'Arial', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     min-height: 100vh;
     color: #333;
 }
@@ -122,16 +122,44 @@ h2 {
     margin: 0 auto 20px;
     border: 3px solid rgba(255, 255, 255, 0.5);
     box-shadow: 0 0 20px rgba(46, 139, 87, 0.2);
+    object-fit: cover;
+    object-position: center;
 }
 
 .profile-name {
-    margin-bottom: 15px;
+    margin-bottom: 10px;
+}
+
+.profile-bio {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.pronouns {
+    font-style: italic;
+    color: #666;
+    margin: 5px 0;
+    font-size: 0.9em;
+}
+
+.title {
+    font-weight: bold;
+    color: #2e8b57;
+    margin: 5px 0;
+    font-size: 1.1em;
+}
+
+.phone {
+    color: #333;
+    margin: 5px 0;
+    font-size: 0.95em;
 }
 
 .profile-desc {
     text-align: center;
     margin-bottom: 30px;
     line-height: 1.6;
+    font-size: 0.95em;
 }
 
 /* Contact Info Styles */
@@ -176,7 +204,7 @@ h2 {
 }
 
 .nav-brand {
-    font-size: 1.5em;
+    font-size: 1.4em;
     font-weight: bold;
     color: #2e8b57;
 }
@@ -220,4 +248,71 @@ h2 {
 
 .hover04 figure:hover img {
     width: 300px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+
+    .navbar {
+        flex-direction: column;
+        gap: 15px;
+        padding: 15px;
+    }
+
+    .nav-links {
+        justify-content: center;
+    }
+
+    .profile-card {
+        padding: 20px;
+        margin: 10px auto;
+    }
+
+    .profile-img {
+        width: 150px;
+        height: 150px;
+    }
+
+    h1 {
+        font-size: 2em;
+    }
+
+    .github-links-grid {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+
+    .github-link {
+        padding: 20px 15px;
+    }
+
+    .contact-info {
+        padding: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .profile-img {
+        width: 120px;
+        height: 120px;
+    }
+
+    h1 {
+        font-size: 1.8em;
+    }
+
+    .title {
+        font-size: 1em;
+    }
+
+    .navbar {
+        padding: 10px;
+    }
+
+    .nav-brand {
+        font-size: 1.3em;
+    }
 }
