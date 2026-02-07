@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Auruddha Rushd Ali</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh 🇧🇩 | The PRODIGY of ARCED International (ARCEDINT)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=auruddhaali&label=Profile%20views&color=0e75b6&style=flat" alt="auruddhaali" /> </p>
+<p align="left"> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=auruddhaali.auruddhaali&left_text=Profile%20views&count_bg=%230e75b6&initial_value=1000003330" alt="Profile Views" /> 
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=auruddhaali" alt="auruddhaali" /></a> </p>
 
